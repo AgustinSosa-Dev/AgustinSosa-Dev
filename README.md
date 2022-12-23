@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Agustín Sosa</h1>
 <h3 align="center">A passionate self-taught frontend developer.</h3>
 
-- 🔭 I’m currently working on [react-media-tube](https://github.com/AgustinSosa-Dev/react-media-tube)
 
 - 🌱 I’m currently learning **ReactJs, NextJs and Typescript.**
-
-- 🤝 I’m looking for help with [next-crud-auth](https://github.com/AgustinSosa-Dev/next-crud-auth)
-
 - 📫 How to reach me **agustinsosa.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
