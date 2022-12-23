@@ -3,6 +3,7 @@
 
 
 - 🌱 I’m currently learning **ReactJs, NextJs and Typescript.**
+
 - 📫 How to reach me **agustinsosa.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
