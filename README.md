@@ -11,7 +11,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/agustinsosa-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="agustinsosa-dev" height="30" width="40" /></a>
 <a href="https://twitter.com/agustns91358634" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="agustns91358634" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/agustin-elias-sosa-395440225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agustin-elias-sosa-395440225/" height="30" width="40" /></a>
 <a href="https://fb.com/agustín elías sosa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="agustín elías sosa" height="30" width="40" /></a>
