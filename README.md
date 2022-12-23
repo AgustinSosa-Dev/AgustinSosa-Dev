@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [react-media-tube](https://github.com/AgustinSosa-Dev/react-media-tube)
 
-- 🌱 I’m currently learning **React js and Next Js.**
+- 🌱 I’m currently learning **ReactJs, NextJs and starting to learn Typescript.**
 
 - 🤝 I’m looking for help with [next-crud-auth](https://github.com/AgustinSosa-Dev/next-crud-auth)
 
